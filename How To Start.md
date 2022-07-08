@@ -27,11 +27,9 @@ mod_info.json 文件是必要的
 ```json
 {
     "original:id": "ns",
-    "original:version": 0.1,
-
-    "mod_list:display": {
-        "description" : "ns:mod_description",
-        "name_in_list": "ns:mod_name"
-    }
+    "original:version": 0.1
 }
 ```
+
+- "original:id": 这将定义模组的唯一 ID, 因此不要过于简单
+- "original:version": 模组的版本
