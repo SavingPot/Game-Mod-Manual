@@ -31,5 +31,8 @@ mod_info.json 文件是必要的
 }
 ```
 
+####
+```
 - "original:id": 这将定义模组的唯一 ID, 因此不要过于简单
 - "original:version": 模组的版本
+```
