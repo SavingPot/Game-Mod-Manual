@@ -22,3 +22,14 @@ mod_info.json 文件是必要的
 -----------------
 
 在创建完成后, 我们要打开这个文件   (均使用VS Code作为示例)
+
+#### mod_info.json示例
+{
+    "original:id": "ns",
+    "original:version": 0.1,
+
+    "mod_list:display": {
+        "description" : "ns:mod_description",
+        "name_in_list": "ns:mod_name"
+    }
+}
