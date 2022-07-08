@@ -10,4 +10,5 @@
 它的名字尽量是你对这个模组的命名  
 不过就算不是也没问题, 只要不和其他模组用同一个文件夹名称就可以
 
-![模组路径示例](https://github.com/SavingPot/Game-Mod-Manual/blob/main/Pictures/How%20To%20Start/how_to_start_mod_path.png "模组路径示例")
+![模组路径示例](https://github.com/SavingPot/Game-Mod-Manual/blob/main/Pictures/How%20To%20Start/how_to_start_mod_path.png "模组路径示例")  
+如上, 本次以 "normal_sea" 作为示例
