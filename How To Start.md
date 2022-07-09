@@ -43,8 +43,8 @@ mod_info.json 文件是必要的
 
 ####
 ```
-- "original:id": 这将定义模组的唯一 ID, 因此不要过于简单
-- "original:version": 模组的版本
+  - "original:id": 这将定义模组的唯一 ID, 因此不要过于简单
+  - "original:version": 模组的版本
 ```
   
 完成之后, 游戏就会加载你的模组了, 但它现在仍然是个空壳, 所以接下来来丰富模组内容
