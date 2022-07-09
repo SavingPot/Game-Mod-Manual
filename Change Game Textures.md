@@ -49,6 +49,31 @@ texture_settings.json 文件是必要的
 - "textures": 真正的贴图设置
   - "id": 这将定义当前贴图的 ID
   - "texture_path": 这将决定当前贴图的路径
-  
-"texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
 
+```
+重要知识点来了
+"texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
+因此在之后制作方块时需要在这里添加自己的贴图
+```
+
+开始修改贴图
+----------
+首先, 想要修改贴图, 我们就要知道想修改的贴图的 ID  
+打开游戏文件夹, 我们会看到 "assets" 文件夹  
+依次打开 "游戏文件夹/assets/mods/original", 这便是游戏自带的核心模组  
+接下来, 打开核心模组里的 "assets/texture_settings.json" 文件  
+我们就会看见很多自带的贴图, 比如我想修改物品栏的贴图, 我们就要在自己的 "texture_settings.json" 中这样写  
+#### texture_settings.json示例
+```json
+{
+    "json_format": "0.4.6", 
+    "textures": [
+        {
+            "id": "original:texture_item_tab",
+            "texture_path": "/贴图的相对路径"
+        }
+    ]
+}
+```
+贴图的相对路径也就是在 "assets" 之下的路径  
+接下来, 保存文件, 在打开游戏, 物品栏的贴图就修改好了!
