@@ -43,3 +43,5 @@ mod_info.json 文件是必要的
 ```
   
 完成之后, 游戏就会加载你的模组了, 但它现在仍然是个空壳, 所以接下来来丰富模组内容
+  
+[修改游戏贴图](https://github.com/SavingPot/Game-Mod-Manual/blob/main/Change%20Game%20Textures.md)  
