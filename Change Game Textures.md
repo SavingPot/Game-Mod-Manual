@@ -45,13 +45,10 @@ texture_settings.json 文件是必要的
 }
 ```
 
-####
-```
 - "json_format": 这将定义模组基于的 json 版本
 - "textures": 真正的贴图设置
   - "id": 这将定义当前贴图的 ID
   - "texture_path": 这将决定当前贴图的路径
-```
   
 "texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
 
