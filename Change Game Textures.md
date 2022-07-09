@@ -28,22 +28,29 @@ texture_settings.json 文件是必要的
 -----------------
 打开创建好的 "assets" 文件夹, 为了修改贴图, 需要创建一个文件 "texture_settings.json"  
 这个文件很好理解, 就是 "贴图设置.json" 的意思  
-如果没有这一个文件, 游戏就不会加载模组的图贴  
+如果没有这一个文件, 游戏就不会加载模组的贴图  
 
 在创建完成后, 我们要打开这个文件   (均使用VS Code作为示例)
 
 #### texture_settings.json示例
 ```json
 {
-    "original:id": "ns",
-    "original:version": 0.1
+    "json_format": "0.4.6", 
+    "textures": [
+        {
+            "id": "ns:texture_water",
+            "texture_path": "/textures/blocks/water.png"
+        }
+    ]
 }
 ```
 
 ####
 ```
-- "original:id": 这将定义模组的唯一 ID, 因此不要过于简单
-- "original:version": 模组的版本
+- "json_format": 这将定义模组基于的 json 版本
+- "textures": 真正的贴图设置
+  - "id": 这将定义当前贴图的 ID
+  - "texture_path": 这将决定当前贴图的路径
 ```
   
 "texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
