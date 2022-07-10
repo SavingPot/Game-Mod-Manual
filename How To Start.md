@@ -2,10 +2,10 @@
 =================
 小提示
 -----
-开始之前, 如果你不会 json 语法的话可以前往 [Runoob Json 教程](https://www.runoob.com/json/json-tutorial.html) 学习  
-放心, json 很简单!  
+开始之前, 如果你不会 Json 语法的话可以前往 [Runoob Json 教程](https://www.runoob.com/json/json-tutorial.html) 学习  
+放心, Json 很简单!  
 
-$\color{red}{而且, 在学完 Json, 你可能会发现模组手册字有点多, 不用紧张, 实际上很简单!}$
+$\color{red}{而且, 在学完 Json 后, 你可能会发现模组手册字有点多, 不用紧张, 实际上很简单!}$
 <br>
 <br>
 <br>
@@ -23,7 +23,7 @@ $\color{red}{而且, 在学完 Json, 你可能会发现模组手册字有点多,
 ------------------
 首先, 我们要在模组目录新建一个文件夹  
 它的名字尽量是你对这个模组的命名  
-不过就算不是也没问题, 只要不和其他模组用同一个文件夹名称就可以
+*不过就算不是也没问题, 只要不和其他模组用同一个文件夹名称就可以*
 
 ![模组路径示例](https://github.com/SavingPot/Game-Mod-Manual/blob/main/Pictures/How%20To%20Start/how_to_start_mod_path.png "模组路径示例")  
 如上, 本次以 "normal_sea" 作为示例  
@@ -31,7 +31,7 @@ $\color{red}{而且, 在学完 Json, 你可能会发现模组手册字有点多,
   
 mod_info.json 文件是必要的
 -----------------
-打开创建好的文件夹后, 需要创建一个文件 "mod_info.json"  
+$\color{gray}{打开创建好的文件夹后, 需要创建一个文件 "mod_info.json"}$  
 这个文件很好理解, 就是 "模组信息.json" 的意思  
 如果没有这一个文件, 游戏就不会认这个模组并跳过加载  
 
