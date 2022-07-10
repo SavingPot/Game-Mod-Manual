@@ -43,7 +43,7 @@ $\color{lightgray}{而且, 在学完 Json 后, 你可能会发现模组手册字
 mod_info.json 文件是必要的
 -----------------  
   
-*打开创建好的文件夹后, 需要创建一个文件 "mod_info.json"*  
+*打开创建好的文件夹后, 需要创建一个文件 "[mod_info.json](https://github.com/SavingPot/Game-Mod-Manual/blob/main/mod_info.json.md)"*  
 这个文件很好理解, 就是 "模组信息.json" 的意思  
 如果没有这一个文件, 游戏就不会认这个模组并跳过加载  
 
