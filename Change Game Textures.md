@@ -3,6 +3,10 @@
 在修改贴图之前, 如果你还没看之前的部分, 就先回去看看吧!  
 [开始第一步](https://github.com/SavingPot/Game-Mod-Manual/blob/main/How%20To%20Start.md)  
 
+</br>
+</br>
+</br>
+
 了解资源目录
 -------------
 在上一个部分, 我们已经制作好了一个空壳模组, 接下来就要为其添加内容了  
