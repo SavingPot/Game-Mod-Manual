@@ -17,7 +17,7 @@
 [Windows] %APPDATA%\..\LocalLow\SavingPotStudio\HungerAndThirst\mods
 ```
 
- $\color{green}在知道模组目录之后, 我们就可以正式开始制作模组了{green}$
+ $\color{green}{green}$在知道模组目录之后, 我们就可以正式开始制作模组了
 
 为模组创建文件夹
 ------------------
