@@ -28,7 +28,7 @@ texture_settings.json
   - "texture_path": 这将决定当前贴图的路径
 
 
-```
+```java
 "texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
 因此在之后制作方块时需要在这里添加自己的贴图
 
