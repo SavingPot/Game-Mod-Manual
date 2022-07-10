@@ -5,7 +5,7 @@
 开始之前, 如果你不会 json 语法的话可以前往 [Runoob Json 教程](https://www.runoob.com/json/json-tutorial.html) 学习  
 放心, json 很简单!  
 
- *$\color{red}{而且, 在学完 Json, 你可能会发现模组手册字有点多, 不用紧张, 实际上很简单!}$*
+$\color{red}{而且, 在学完 Json, 你可能会发现模组手册字有点多, 不用紧张, 实际上很简单!}$
 <br>
 <br>
 <br>
