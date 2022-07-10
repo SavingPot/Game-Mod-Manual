@@ -37,7 +37,8 @@ $\color{red}{而且, 在学完 Json 后, 你可能会发现模组手册字有点
 <br>
 <br>
 <br>
-mod_info.json 文件是必要的  
+
+mod_info.json 文件是必要的
 -----------------  
   
 *打开创建好的文件夹后, 需要创建一个文件 "mod_info.json"*  
