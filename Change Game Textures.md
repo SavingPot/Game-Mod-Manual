@@ -63,7 +63,7 @@ texture_settings.json 文件是必要的
   - "id": 这将定义当前贴图的 ID
   - "texture_path": 这将决定当前贴图的路径
 
-```
+```java
 重要知识点来了
 "texture_settings.json" 不仅可以修改原生贴图, 还可以定义自己的贴图
 因此在之后制作方块时需要在这里添加自己的贴图
@@ -99,5 +99,7 @@ texture_settings.json 文件是必要的
 ```
 贴图的相对路径也就是在 "assets" 之下的路径  
 示例 : "/textures/blocks/water.png", 他的真正目录就是 "/模组目录/assets/textures/blocks/water.png"  
-接下来, 保存文件, 在打开游戏, 物品栏的贴图就修改好了!
 ```
+
+
+那么接下来, 保存文件, 打开游戏, 物品栏的贴图就修改好了!
