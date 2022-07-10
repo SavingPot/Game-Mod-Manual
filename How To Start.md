@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-<font color="#dd0000">了解模组目录</font>
+了解模组目录
 -------------
 首先, 想要制作模组, 我们当然得知道要把模组放在什么路径  
 
@@ -17,7 +17,7 @@
 [Windows] %APPDATA%\..\LocalLow\SavingPotStudio\HungerAndThirst\mods
 ```
 
-在知道模组目录之后, 我们就可以正式开始制作模组了  
+ $\color{green}在知道模组目录之后, 我们就可以正式开始制作模组了{green}$
 
 为模组创建文件夹
 ------------------
