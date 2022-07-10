@@ -97,6 +97,8 @@ texture_settings.json 文件是必要的
     ]
 }
 ```
+
+```
 贴图的相对路径也就是在 "assets" 之下的路径  
 示例 : "/textures/blocks/water.png", 他的真正目录就是 "/模组目录/assets/textures/blocks/water.png"  
 接下来, 保存文件, 在打开游戏, 物品栏的贴图就修改好了!
