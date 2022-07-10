@@ -44,9 +44,6 @@ mod_info.json 文件是必要的
 -----------------  
   
 *打开创建好的文件夹后, 需要创建一个文件 "[mod_info.json](https://github.com/SavingPot/Game-Mod-Manual/blob/main/mod_info.json.md)"*  
-这个文件很好理解, 就是 "模组信息.json" 的意思  
-如果没有这一个文件, 游戏就不会认这个模组并跳过加载  
-
 在创建完成后, 我们要打开这个文件   (均使用VS Code作为示例)
 
 #### mod_info.json示例
