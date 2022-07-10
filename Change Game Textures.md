@@ -41,7 +41,7 @@
 
 texture_settings.json 文件是必要的
 -----------------
-打开创建好的 "assets" 文件夹, 为了修改贴图, 需要创建一个文件 "texture_settings.json"  
+打开创建好的 "assets" 文件夹, 为了修改贴图, 需要创建一个文件 "[texture_settings.json](https://github.com/SavingPot/Game-Mod-Manual/blob/main/texture_settings.json.md)"  
 
 在创建完成后, 我们要打开这个文件   (均使用VS Code作为示例)
 
