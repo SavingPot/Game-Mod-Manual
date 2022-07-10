@@ -5,11 +5,11 @@
 开始之前, 如果你不会 json 语法的话可以前往 [Runoob Json 教程](https://www.runoob.com/json/json-tutorial.html) 学习  
 放心, json 很简单!  
 
-***而且, 在学完 Json, 你可能会发现字有点多, 不用紧张, 实际上很简单!***
+***而且, 在学完 Json, 你可能会发现模组手册字有点多, 不用紧张, 实际上很简单!***
 
 了解模组目录
 -------------
-首先, 想要制作模组, 我们得知道要把模组放在什么路径  
+首先, 想要制作模组, 我们当然得知道要把模组放在什么路径  
 
 ```
 [Windows] %APPDATA%\..\LocalLow\SavingPotStudio\HungerAndThirst\mods
